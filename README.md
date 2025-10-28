@@ -27,14 +27,14 @@ This package includes:
 1. In Xcode, open **File ▸ Add Packages...**  
 2. Paste the package URL:
    ```text
-   https://github.com/yourusername/TimePicker.git
+   https://github.com/ThakurVijay2191/TimePicker.git
    ```
 3. Select the latest version and add it to your app target.
 
 Alternatively, add it directly to your `Package.swift`:
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/TimePicker.git", from: "1.0.0")
+    .package(url: "https://github.com/ThakurVijay2191/TimePicker.git", from: "1.0.0")
 ]
 ```
 
@@ -151,8 +151,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Vijay Thakur**  
 iOS Developer • Swift Enthusiast • UI/UX Focused Engineer  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thakurvijay)  
-- 🧑‍💻 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/thakurvijay](https://www.linkedin.com/in/vijay-thakur-984646223/))  
+- 🧑‍💻 [GitHub](https://github.com/ThakurVijay2191)
 
 ---
 
