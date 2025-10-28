@@ -178,8 +178,9 @@ fileprivate struct PickerWithoutIndicator<Content: View, Selection: Hashable>: V
                 RemovePickerIndicator {
                     isHidden = true
                 }
-            }
+            }else {
             content
+            }
         }
         .pickerStyle(.wheel)
     }
