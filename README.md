@@ -92,6 +92,15 @@ You can embed this directly inside custom layouts or modals — it’s not limit
 
 ---
 
+## 📱 Preview
+
+
+
+https://github.com/user-attachments/assets/705c8d5d-c8d6-432d-8e8d-53e5420f5c86
+
+
+---
+
 ## 🎨 Customization
 
 | Parameter | Type | Description |
