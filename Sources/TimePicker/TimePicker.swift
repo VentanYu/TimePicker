@@ -64,7 +64,7 @@ public struct TimePicker: View {
             Column(.minutes, selection: $minutes)
             Column(.seconds, selection: $seconds)
         }
-        .offset(x: -25)
+        .offset(x: -22)
         .background {
             configuration.shape
                 .fill(configuration.style)
@@ -103,7 +103,7 @@ private extension TimePicker {
                 let symbol = timeUnit.localizedSymbol(selection)
                 Text(symbol)
                     // Referenced the font style of the system application "Clock - Timers"
-                    .font(.system(size: 17))
+                    .font(.system(size: 16))
                     .fontWeight(.semibold)
                     .frame(width: 50, alignment: .leading)
                     .lineLimit(1)
